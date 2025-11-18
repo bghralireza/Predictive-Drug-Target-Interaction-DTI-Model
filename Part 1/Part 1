@@ -1,0 +1,3 @@
+This is the foundational part. Errors or biases introduced here will cripple the best deep learning model, regardless of how complex its architecture is. The goal is to turn unstructured, messy, and large-scale public data into a standardized, clean, and balanced set of (SMILES, Sequence, text) triplets.
+
+This phase is broken down into three critical steps: **sourcing**, **cleaning**, and **finalizing**.
